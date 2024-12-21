@@ -15,11 +15,11 @@
 ### Demo Screenshot
 
 ![React Native Fitness App Demo](./assets/images/1.png)
-(./assets/images/2.png )
-(./assets/images/3.png )
-(./assets/images/4.png )
-(./assets/images/5.png )
-(./assets/images/6.png)
+![React Native Fitness App Demo](./assets/images/2.png )
+![React Native Fitness App Demo](./assets/images/3.png )
+![React Native Fitness App Demo](./assets/images/4.png )
+![React Native Fitness App Demo](./assets/images/5.png )
+![React Native Fitness App Demo](./assets/images/6.png)
 
 ## Get Started
 
